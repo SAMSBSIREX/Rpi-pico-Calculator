@@ -1,5 +1,5 @@
-#https://github.com/SAMSBSIREX
-#Rpi-pico-Calculator
+#https://github.com/SAMSBSIREX/Rpi-pico-Calculator
+#Rpi-pico-Calculato
 
 #Monitor >>> Rpi Pico
 #GND >>> 38 GND
